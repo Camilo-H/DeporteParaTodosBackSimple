@@ -1,4 +1,4 @@
-package co.edu.unicauca.desarrolloprueba.models;
+package co.edu.unicauca.proyecto.models;
 
 import java.io.Serializable;
 import jakarta.persistence.*;

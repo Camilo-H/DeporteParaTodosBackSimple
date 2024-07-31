@@ -1,4 +1,4 @@
-package co.edu.unicauca.desarrolloprueba.enums;
+package co.edu.unicauca.proyecto.models.enums;
 
 public enum TipoAlumno {
     Estudiante, Administrativo, Docente

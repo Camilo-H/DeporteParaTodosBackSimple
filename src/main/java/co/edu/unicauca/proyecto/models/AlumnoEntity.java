@@ -1,8 +1,9 @@
-package co.edu.unicauca.desarrolloprueba.models;
+package co.edu.unicauca.proyecto.models;
 
 import lombok.*;
 import java.util.*;
-import co.edu.unicauca.desarrolloprueba.enums.TipoAlumno;
+
+import co.edu.unicauca.proyecto.models.enums.TipoAlumno;
 import jakarta.persistence.*;
 
 @Getter

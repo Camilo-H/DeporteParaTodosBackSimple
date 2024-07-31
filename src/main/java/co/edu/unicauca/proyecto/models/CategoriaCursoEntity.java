@@ -1,4 +1,4 @@
-package co.edu.unicauca.desarrolloprueba.models;
+package co.edu.unicauca.proyecto.models;
 
 import jakarta.persistence.*;
 import lombok.*;
